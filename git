@@ -1,0 +1,87 @@
+[33mcommit e7bbea3a788185b5021efc727e3ab15b845d43ee[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Erick Wendel <erick.workspace@gmail.com>
+Date:   Sat Sep 11 10:29:28 2021 -0300
+
+    add 3rd class
+    
+    Signed-off-by: Erick Wendel <erick.workspace@gmail.com>
+
+[33mcommit 928879f72d49217544f0fc19530abf562b7a1200[m
+Author: Erick Wendel <erick.workspace@gmail.com>
+Date:   Thu Sep 9 14:28:11 2021 -0300
+
+    fix: add extension for logger dependency
+    
+    Signed-off-by: Erick Wendel <erick.workspace@gmail.com>
+
+[33mcommit c40cfa58ade3d09e2ad7ae2bac2abcf0bad46a29[m
+Author: Erick Wendel <erick.workspace@gmail.com>
+Date:   Thu Sep 9 14:27:40 2021 -0300
+
+    fix: rm wrong test
+    
+    Signed-off-by: Erick Wendel <erick.workspace@gmail.com>
+
+[33mcommit 2805f1ceeceae8e64c7f28fb60631276fc1514fe[m
+Author: Erick Wendel <erick.workspace@gmail.com>
+Date:   Thu Sep 9 08:17:53 2021 -0300
+
+    add 2nd class
+    
+    Signed-off-by: Erick Wendel <erick.workspace@gmail.com>
+
+[33mcommit 0fc4fe64ac53219ba202a6cc80e8bbcaa68bbd1f[m
+Author: Erick Wendel <erick.workspace@gmail.com>
+Date:   Mon Sep 6 22:13:33 2021 -0300
+
+    add first class demo
+    
+    Signed-off-by: Erick Wendel <erick.workspace@gmail.com>
+
+[33mcommit 669d80b44b8e91a705d266c478e638e668b11b51[m
+Author: Erick Wendel <erick.workspace@gmail.com>
+Date:   Mon Sep 6 13:32:46 2021 -0300
+
+    add instruction for ssl error
+    
+    Signed-off-by: Erick Wendel <erick.workspace@gmail.com>
+
+[33mcommit 0b1f7694055cd894d15c02a372acbad85d98e2f8[m
+Author: Erick Wendel <erick.workspace@gmail.com>
+Date:   Mon Sep 6 13:29:49 2021 -0300
+
+    add FAQ for frequently errors
+    
+    Signed-off-by: Erick Wendel <erick.workspace@gmail.com>
+
+[33mcommit 08cb086f29194aaaa81ef67bd2ec820111522cf5[m
+Author: Erick Wendel <erick.workspace@gmail.com>
+Date:   Fri Sep 3 15:14:22 2021 -0300
+
+    add default SSL Certificates
+    
+    Signed-off-by: Erick Wendel <erick.workspace@gmail.com>
+
+[33mcommit a0d2e0bc0806d42d009fb1bfeb3502cc1ba56879[m
+Author: Erick Wendel <erick.workspace@gmail.com>
+Date:   Fri Sep 3 10:56:21 2021 -0300
+
+    add web template
+    
+    Signed-off-by: Erick Wendel <erick.workspace@gmail.com>
+
+[33mcommit ffe21ffb1a153a5bd49b5360dbd444df5535552c[m
+Author: Erick Wendel <erick.workspace@gmail.com>
+Date:   Fri Sep 3 10:54:16 2021 -0300
+
+    initial template
+    
+    Signed-off-by: Erick Wendel <erick.workspace@gmail.com>
+
+[33mcommit c26d693cb53d3f82f52b462e1ca5f4a36510d094[m
+Author: Erick Wendel <erick.workspace@gmail.com>
+Date:   Fri Sep 3 10:50:46 2021 -0300
+
+    add readme and demo
+    
+    Signed-off-by: Erick Wendel <erick.workspace@gmail.com>
